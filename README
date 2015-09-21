@@ -2,7 +2,7 @@ This is a framework for making a node js website with express.
 
 ===
 Installing node
-==
+===
 sudo apt-get update
 sudo apt-get install python-software-properties python g++ make
 sudo add-apt-repository ppa:chris-lea/node.js
@@ -12,9 +12,10 @@ sudo apt-get install nodejs
 ===
 Updating npm (already installed with node.js)
 ===
-* Check version
+> Check version
 npm --version
-* Update version
+
+> Update version
 sudo npm install npm -g
 
 ===
